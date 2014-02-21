@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:69b8256340f103360415eac178642d31$ -->
+<TextureAtlas imagePath="flash-pf.png">
+    <SubTexture name="0" x="404" y="1448" width="400" height="480"/>
+    <SubTexture name="1" x="404" y="966" width="400" height="480"/>
+    <SubTexture name="2" x="2" y="1448" width="400" height="480"/>
+    <SubTexture name="3" x="2" y="966" width="400" height="480"/>
+    <SubTexture name="4" x="404" y="484" width="400" height="480"/>
+    <SubTexture name="5" x="2" y="484" width="400" height="480"/>
+    <SubTexture name="6" x="404" y="2" width="400" height="480"/>
+    <SubTexture name="7" x="2" y="2" width="400" height="480"/>
+</TextureAtlas>

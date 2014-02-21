@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:724c60555c3683ddafabca4dabfeda46$ -->
+<TextureAtlas imagePath="ad.png">
+    <SubTexture name="a1" x="2" y="1361" width="625" height="258"/>
+    <SubTexture name="a2" x="2" y="1101" width="625" height="258"/>
+    <SubTexture name="a3" x="2" y="841" width="625" height="258"/>
+    <SubTexture name="a4" x="2" y="581" width="625" height="258"/>
+    <SubTexture name="a5" x="2" y="321" width="625" height="258"/>
+    <SubTexture name="s1" x="2" y="2" width="625" height="317"/>
+    <SubTexture name="s2" x="2" y="2" width="625" height="317"/>
+    <SubTexture name="s3" x="2" y="2" width="625" height="317"/>
+    <SubTexture name="s4" x="2" y="2" width="625" height="317"/>
+    <SubTexture name="s5" x="2" y="2" width="625" height="317"/>
+</TextureAtlas>
